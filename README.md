@@ -4,7 +4,7 @@ Trying to learn about various DS/ML algos while practising simple and common que
 ### Titles
 
 1. Rock vs Mine Detection System
-2. Diabetes Prediction System
+2. Diabetes Prediction System(Streamlit)
 3. Fake News Prediction System
 4. Loan Status Prediction
 5. Wine Quality Prediction
