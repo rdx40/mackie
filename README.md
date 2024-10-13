@@ -13,3 +13,4 @@ Trying to learn about various DS/ML algos while practising simple and common que
 8. Heart Disease Prediction
 9. Credit Card Fraud Detection
 10. Medical Insurance Cost
+11. Customer Segmentation(k means clustering)
