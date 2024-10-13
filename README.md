@@ -14,3 +14,5 @@ Trying to learn about various DS/ML algos while practising simple and common que
 9. Credit Card Fraud Detection
 10. Medical Insurance Cost
 11. Customer Segmentation(k means clustering)
+12. Spam Mail Detection
+13. Movie Recommendation System
