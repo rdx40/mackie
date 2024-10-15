@@ -16,3 +16,4 @@ Trying to learn about various DS/ML algos while practising simple and common que
 11. Customer Segmentation(k means clustering)
 12. Spam Mail Detection
 13. Movie Recommendation System
+14. A Neural Network Application for Breast Cancer Classification
